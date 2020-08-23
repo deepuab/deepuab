@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Vue JS
 - 👯 I’m looking to collaborate on Open source projects
 - 🤔 I’m looking for help with some npm package ideas!.
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=deepuab)
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 </br>
@@ -21,6 +23,11 @@
 <img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Pivotal" width="26px" src="https://simpleicons.org/icons/pivotaltracker.svg" />
+<img align="left" alt="JIRA" width="26px" src="https://simpleicons.org/icons/jirasoftware.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+
 
 <br />
 
